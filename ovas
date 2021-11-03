@@ -1,0 +1,803 @@
+{
+
+  "0": {
+
+    "score": "9.05",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg?s\u003d385cedad342e284c5765833ab1cddc1c",
+
+    "mal_id": "820",
+
+    "title": "Ginga Eiyuu Densetsu",
+
+    "total_episodes": "110",
+
+    "start_date": "Jan 1988"
+
+  },
+
+  "1": {
+
+    "score": "8.72",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1807/102419.jpg?s\u003df66e01379baa6d60de8ce23f0fbf2fe1",
+
+    "mal_id": "44",
+
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+
+    "total_episodes": "4",
+
+    "start_date": "Feb 1999"
+
+  },
+
+  "2": {
+
+    "score": "8.41",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/69497.jpg?s\u003da8c7a9cf76d4a6e498a5cb725b9b130c",
+
+    "mal_id": "25781",
+
+    "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+
+    "total_episodes": "2",
+
+    "start_date": "Dec 2014"
+
+  },
+
+  "3": {
+
+    "score": "8.41",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/79704.jpg?s\u003d5dbb3f40129de07167e6717c2a49919b",
+
+    "mal_id": "32366",
+
+    "title": "Gintama°: Aizome Kaori-hen",
+
+    "total_episodes": "2",
+
+    "start_date": "Aug 2016"
+
+  },
+
+  "4": {
+
+    "score": "8.38",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/81250.jpg?s\u003d0f36fe7a3f5ee0bc66190c5a1feef8a1",
+
+    "mal_id": "30709",
+
+    "title": "Kamisama Hajimemashita: Kako-hen",
+
+    "total_episodes": "4",
+
+    "start_date": "Aug 2015"
+
+  },
+
+  "5": {
+
+    "score": "8.37",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/7333.jpg?s\u003d00a2f1443aaff74d48d9a5547db67cc3",
+
+    "mal_id": "777",
+
+    "title": "Hellsing Ultimate",
+
+    "total_episodes": "10",
+
+    "start_date": "Feb 2006"
+
+  },
+
+  "6": {
+
+    "score": "8.35",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s\u003d5c1a28568a211edad30f1b8d210c64ff",
+
+    "mal_id": "12029",
+
+    "title": "Uchuu Senkan Yamato 2199",
+
+    "total_episodes": "26",
+
+    "start_date": "May 2012"
+
+  },
+
+  "7": {
+
+    "score": "8.34",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/72702.jpg?s\u003d02880f9b4c66b7d0163247e35513e17f",
+
+    "mal_id": "10937",
+
+    "title": "Mobile Suit Gundam: The Origin",
+
+    "total_episodes": "6",
+
+    "start_date": "Feb 2015"
+
+  },
+
+  "8": {
+
+    "score": "8.34",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.jpg?s\u003d75845af879606bdd39df23f88e029330",
+
+    "mal_id": "20651",
+
+    "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+
+    "total_episodes": "1",
+
+    "start_date": "Feb 2014"
+
+  },
+
+  "9": {
+
+    "score": "8.32",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/137.jpg?s\u003d3c5ffeb645abc7c46147639522ed4e68",
+
+    "mal_id": "137",
+
+    "title": "Hunter x Hunter: Original Video Animation",
+
+    "total_episodes": "8",
+
+    "start_date": "Jan 2002"
+
+  },
+
+  "10": {
+
+    "score": "8.32",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75220.jpg?s\u003d4ddb39449a7fe629b417dd8b6f16324c",
+
+    "mal_id": "11917",
+
+    "title": "Major: World Series",
+
+    "total_episodes": "2",
+
+    "start_date": "Dec 2011"
+
+  },
+
+  "11": {
+
+    "score": "8.3",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/49129.jpg?s\u003db6656eaf9f8437a1100c6e45b90aabe7",
+
+    "mal_id": "2685",
+
+    "title": "Tsubasa: Tokyo Revelations",
+
+    "total_episodes": "3",
+
+    "start_date": "Nov 2007"
+
+  },
+
+  "12": {
+
+    "score": "8.27",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/139.jpg?s\u003d2081ab181663109f5e0bbc56c59e6749",
+
+    "mal_id": "139",
+
+    "title": "Hunter x Hunter: Greed Island Final",
+
+    "total_episodes": "14",
+
+    "start_date": "Mar 2004"
+
+  },
+
+  "13": {
+
+    "score": "8.23",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/64737.jpg?s\u003d75f1c37a26e5b7740ad7d51abeb9553f",
+
+    "mal_id": "265",
+
+    "title": "Hajime no Ippo: Mashiba vs. Kimura",
+
+    "total_episodes": "1",
+
+    "start_date": "Sep 2003"
+
+  },
+
+  "14": {
+
+    "score": "8.21",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/25080.jpg?s\u003dd7dfe3d37dddd29bb7210d93ab6755ea",
+
+    "mal_id": "6864",
+
+    "title": "xxxHOLiC Rou",
+
+    "total_episodes": "2",
+
+    "start_date": "Apr 2010"
+
+  },
+
+  "15": {
+
+    "score": "8.19",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/37203.jpg?s\u003d1ad433116311029d524d48526be718d9",
+
+    "mal_id": "138",
+
+    "title": "Hunter x Hunter: Greed Island",
+
+    "total_episodes": "8",
+
+    "start_date": "Feb 2003"
+
+  },
+
+  "16": {
+
+    "score": "8.18",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75219.jpg?s\u003df6a85aa6849a900d3f6d7266341e22bb",
+
+    "mal_id": "9890",
+
+    "title": "Major: Message",
+
+    "total_episodes": "1",
+
+    "start_date": "Dec 2010"
+
+  },
+
+  "17": {
+
+    "score": "8.15",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/28463.jpg?s\u003d0a8bfcfd6cdb49d57a7915e4a0cb0aeb",
+
+    "mal_id": "3371",
+
+    "title": "Ginga Eiyuu Densetsu Gaiden",
+
+    "total_episodes": "24",
+
+    "start_date": "Feb 1998"
+
+  },
+
+  "18": {
+
+    "score": "8.14",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1773/116805.jpg?s\u003d028317babe0d560a4c3a6718dda93cce",
+
+    "mal_id": "44931",
+
+    "title": "Tonikaku Kawaii: SNS",
+
+    "total_episodes": "1",
+
+    "start_date": "Aug 2021"
+
+  },
+
+  "19": {
+
+    "score": "8.13",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/50459.jpg?s\u003d90f34f0ef3cf2cd2df7b6e820b58a7b6",
+
+    "mal_id": "6336",
+
+    "title": "Mobile Suit Gundam Unicorn",
+
+    "total_episodes": "7",
+
+    "start_date": "Mar 2010"
+
+  },
+
+  "20": {
+
+    "score": "8.13",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/9853.jpg?s\u003d01409a7f61f078eb0661eced9e766389",
+
+    "mal_id": "3702",
+
+    "title": "Detroit Metal City",
+
+    "total_episodes": "12",
+
+    "start_date": "Aug 2008"
+
+  },
+
+  "21": {
+
+    "score": "8.13",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/80587.jpg?s\u003dfaceb9afe9d4bd52006324590ed0e7aa",
+
+    "mal_id": "32902",
+
+    "title": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+
+    "total_episodes": "3",
+
+    "start_date": "Sep 2016"
+
+  },
+
+  "22": {
+
+    "score": "8.12",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/83437.jpg?s\u003d9d36890f67dc9bc013fc89020595fc07",
+
+    "mal_id": "33323",
+
+    "title": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+
+    "total_episodes": "1",
+
+    "start_date": "Dec 2016"
+
+  },
+
+  "23": {
+
+    "score": "8.12",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.jpg?s\u003de118efb007a6b2d3cfbfa6fef7b7788a",
+
+    "mal_id": "4938",
+
+    "title": "Tsubasa: Shunraiki",
+
+    "total_episodes": "2",
+
+    "start_date": "Mar 2009"
+
+  },
+
+  "24": {
+
+    "score": "8.1",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg?s\u003d2120290c7972b933fbc7084cef75193e",
+
+    "mal_id": "44248",
+
+    "title": "Fate/Grand Carnival",
+
+    "total_episodes": "4",
+
+    "start_date": "Dec 2020"
+
+  },
+
+  "25": {
+
+    "score": "8.1",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.jpg?s\u003d1978e7b93078be9fb40d8def476c7e09",
+
+    "mal_id": "9130",
+
+    "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
+
+    "total_episodes": "13",
+
+    "start_date": "Feb 2011"
+
+  },
+
+  "26": {
+
+    "score": "8.09",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75974.jpg?s\u003ded578f7f922dede0e8d6ae99d24b3a92",
+
+    "mal_id": "30370",
+
+    "title": "Akatsuki no Yona OVA",
+
+    "total_episodes": "3",
+
+    "start_date": "Sep 2015"
+
+  },
+
+  "27": {
+
+    "score": "8.08",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/9580.jpg?s\u003d50ef293f6ca75e2c5217fa4b0d5644b2",
+
+    "mal_id": "3665",
+
+    "title": "Ginga Eiyuu Densetsu Gaiden (1999)",
+
+    "total_episodes": "28",
+
+    "start_date": "Dec 1999"
+
+  },
+
+  "28": {
+
+    "score": "8.08",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/72754.jpg?s\u003dc381abcafbf38817a2a228451f04b7e3",
+
+    "mal_id": "17739",
+
+    "title": "Hidamari Sketch: Sae Hiro Sotsugyou-hen",
+
+    "total_episodes": "2",
+
+    "start_date": "Nov 2013"
+
+  },
+
+  "29": {
+
+    "score": "8.08",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/74392.jpg?s\u003d0987131cf9a32537da2ae2e5d41c6692",
+
+    "mal_id": "23317",
+
+    "title": "Kuroshitsuji: Book of Murder",
+
+    "total_episodes": "2",
+
+    "start_date": "Jan 2015"
+
+  },
+
+  "30": {
+
+    "score": "8.08",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1735/95499.jpg?s\u003da5def70bfb06381776ffb453d81d6360",
+
+    "mal_id": "1382",
+
+    "title": "Yuusha-Ou GaoGaiGar Final",
+
+    "total_episodes": "8",
+
+    "start_date": "Jan 2000"
+
+  },
+
+  "31": {
+
+    "score": "8.07",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1042/110294.jpg?s\u003d84d27cc4aafc481fbb592fc0e2c03116",
+
+    "mal_id": "851",
+
+    "title": "Kyou kara Ore wa!!",
+
+    "total_episodes": "10",
+
+    "start_date": "Dec 1992"
+
+  },
+
+  "32": {
+
+    "score": "8.06",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/25079.jpg?s\u003d8bdf6415930dbaa10b0ac70dac7ae5ff",
+
+    "mal_id": "4918",
+
+    "title": "xxxHOLiC Shunmuki",
+
+    "total_episodes": "2",
+
+    "start_date": "Feb 2009"
+
+  },
+
+  "33": {
+
+    "score": "8.06",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/84052.jpg?s\u003de696b4a947b316ae6bd2385092bf1fbc",
+
+    "mal_id": "33161",
+
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+
+    "total_episodes": "1",
+
+    "start_date": "Oct 2016"
+
+  },
+
+  "34": {
+
+    "score": "8.05",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/16343.jpg?s\u003dd7335be7a8e0e3ad1e0683491e924c71",
+
+    "mal_id": "1257",
+
+    "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+
+    "total_episodes": "13",
+
+    "start_date": "Nov 2002"
+
+  },
+
+  "35": {
+
+    "score": "8.05",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1115/98517.jpg?s\u003d1f986ba1c1b3ff8177c65d9ac6021ac5",
+
+    "mal_id": "34626",
+
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+
+    "total_episodes": "1",
+
+    "start_date": "Jul 2017"
+
+  },
+
+  "36": {
+
+    "score": "8.03",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75529.jpg?s\u003dc8e88495ad56ad749fdb93320aea84b2",
+
+    "mal_id": "4901",
+
+    "title": "Black Lagoon: Roberta\u0027s Blood Trail",
+
+    "total_episodes": "5",
+
+    "start_date": "Jun 2010"
+
+  },
+
+  "37": {
+
+    "score": "8.03",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s\u003d4c740722edcf938c372197fc31aaa060",
+
+    "mal_id": "227",
+
+    "title": "FLCL",
+
+    "total_episodes": "6",
+
+    "start_date": "Apr 2000"
+
+  },
+
+  "38": {
+
+    "score": "8.02",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/77622.jpg?s\u003da0847d0099daff74d6947392ccee5a82",
+
+    "mal_id": "2563",
+
+    "title": "Aria the OVA: Arietta",
+
+    "total_episodes": "1",
+
+    "start_date": "Sep 2007"
+
+  },
+
+  "39": {
+
+    "score": "8.02",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg?s\u003d1fc891d40870585d7957121152b79da1",
+
+    "mal_id": "268",
+
+    "title": "Golden Boy",
+
+    "total_episodes": "6",
+
+    "start_date": "Oct 1995"
+
+  },
+
+  "40": {
+
+    "score": "8.02",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75618.jpg?s\u003d7d4999b55a1668a2e5775bb5410859db",
+
+    "mal_id": "81",
+
+    "title": "Mobile Suit Gundam: The 08th MS Team",
+
+    "total_episodes": "12",
+
+    "start_date": "Jan 1996"
+
+  },
+
+  "41": {
+
+    "score": "8.02",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/22397.jpg?s\u003d134567696ccd86e9e2d35b55ac4446b4",
+
+    "mal_id": "1023",
+
+    "title": "Wolf\u0027s Rain OVA",
+
+    "total_episodes": "4",
+
+    "start_date": "Jan 2004"
+
+  },
+
+  "42": {
+
+    "score": "8.01",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1057/111384.jpg?s\u003db1cf3866d39a7d8f3271acf032867a59",
+
+    "mal_id": "38422",
+
+    "title": "High Score Girl: Extra Stage",
+
+    "total_episodes": "3",
+
+    "start_date": "Mar 2019"
+
+  },
+
+  "43": {
+
+    "score": "8.01",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/56425.jpg?s\u003d208ac490c48832c16fd3a313e329b7ba",
+
+    "mal_id": "18661",
+
+    "title": "Kamisama Hajimemashita OVA",
+
+    "total_episodes": "2",
+
+    "start_date": "Aug 2013"
+
+  },
+
+  "44": {
+
+    "score": "7.99",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877.jpg?s\u003d0710e0e22e128753439268ccf3cfeb0e",
+
+    "mal_id": "401",
+
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+
+    "total_episodes": "2",
+
+    "start_date": "Dec 2001"
+
+  },
+
+  "45": {
+
+    "score": "7.99",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/7525.jpg?s\u003d089f777e7293f8206a1acd231eb7e52f",
+
+    "mal_id": "4053",
+
+    "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+
+    "total_episodes": "7",
+
+    "start_date": "Apr 2008"
+
+  },
+
+  "46": {
+
+    "score": "7.98",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1172/109469.jpg?s\u003d5a1bbf0646b2bbb6f33c379609d2d632",
+
+    "mal_id": "8740",
+
+    "title": "One Piece Film: Strong World Episode 0",
+
+    "total_episodes": "1",
+
+    "start_date": "Apr 2010"
+
+  },
+
+  "47": {
+
+    "score": "7.98",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75546.jpg?s\u003d7ee914402254e47fd6fb0405f3f32e75",
+
+    "mal_id": "6171",
+
+    "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+
+    "total_episodes": "13",
+
+    "start_date": "Jun 2009"
+
+  },
+
+  "48": {
+
+    "score": "7.94",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1065/94641.jpg?s\u003d0eb30e233d82445981f5aa557bf1d321",
+
+    "mal_id": "2952",
+
+    "title": "Final Fantasy VII: Advent Children Complete",
+
+    "total_episodes": "1",
+
+    "start_date": "Apr 2009"
+
+  },
+
+  "49": {
+
+    "score": "7.94",
+
+    "image_url": "https://cdn.myanimelist.net/images/anime/1703/97779.jpg?s\u003d6e41f99a471f2f5ff3c6bb9fc489cb86",
+
+    "mal_id": "16395",
+
+    "title": "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+
+    "total_episodes": "1",
+
+    "start_date": "Feb 2013"
+
+  }
+
+}
